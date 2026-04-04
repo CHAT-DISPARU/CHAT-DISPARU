@@ -38,12 +38,6 @@ int main(void)
 ---
 
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHAT-DISPARU&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAT-DISPARU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" width="48%" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CHAT-DISPARU&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
