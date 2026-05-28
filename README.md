@@ -42,3 +42,7 @@ int main(void)
     <img src="https://streak-stats.demolab.com?user=CHAT-DISPARU&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TFHD&locale=en&hide_title=false&layout=compact&card_width=320&theme=radical&langs_count=5&bg_color=30,090a0c,303b51&title_color=fff&text_color=fff&hide_border=false&order=2" height="150" alt="languages graph"  />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHAT-DISPARU&theme=tokyo-night&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&hide_border=true" alt="Activity Graph" />
+</div>
