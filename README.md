@@ -45,4 +45,5 @@ int main(void)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHAT-DISPARU&theme=tokyo-night&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&hide_border=true" alt="Activity Graph" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=theamit-969&labelColor=%230d1117&countColor=%232d333b&style=for-the-badge&labelStyle=upper" />
 </div>
