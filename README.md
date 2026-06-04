@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://github.com/CHAT-DISPARU/CHAT-DISPARU/blob/main/banner.gif">
+    <img src="https://github.com/CHAT-DISPARU/CHAT-DISPARU/blob/main/banner.gif">
 </div>
+
+<br/>
 
 ---
 
@@ -35,15 +37,20 @@ int main(void)
     return (0);
 }
 ```
+<br/>
+
+---
+
+<br/>
+
+![CHAT-DISPARU's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHAT-DISPARU&bg_color=0D1117&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true&card_width=800)
+
+<br/>
+
 ---
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHAT-DISPARU&theme=tokyo-night&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=CHAT-DISPARU&theme=gotham&date_format=j%2Fn%5B%2FY%5D&card_width=550" />
 </div>
-<br/>
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=CHAT-DISPARU&theme=github-compact&hide_border=true" alt="GitHub Streak" width="70%" />
-</p>
-
