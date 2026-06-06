@@ -63,7 +63,7 @@ int main(void)
   <img height="180"
        src="https://github-readme-stats.shion.dev/api?username=CHAT-DISPARU&theme=tokyonight&bg_color=0a0f1e&border_color=1e3a5f&title_color=38bdf8&text_color=7dd3fc&icon_color=38bdf8&show_icons=true&count_private=true&include_all_commits=true">
   <img height="180"
-       src="https://github-readme-stats.shion.dev/api/top-langs/?username=CHAT-DISPARU&theme=tokyonight&bg_color=0a0f1e&border_color=1e3a5f&title_color=38bdf8&text_color=7dd3fc&layout=compact&include_all_commits=true">
+       src="https://github-readme-stats.shion.dev/api/top-langs/?username=CHAT-DISPARU&theme=tokyonight&bg_color=0a0f1e&border_color=1e3a5f&title_color=38bdf8&text_color=7dd3fc&layout=normal&include_all_commits=true">
 </p>
 
 <p align="center">
