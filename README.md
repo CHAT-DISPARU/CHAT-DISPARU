@@ -6,7 +6,11 @@
 
 ---
 
+<br/>
+
 <h1 align="center">About Me 😁​</h1>
+
+<br/>
 
 ```c
 #include <stdlib.h>
@@ -43,14 +47,39 @@ int main(void)
 
 <br/>
 
-![CHAT-DISPARU's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHAT-DISPARU&bg_color=0D1117&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true&card_width=800)
+<h1 align="center">GitHub Stats​ ☝️​🤓​</h1>
+
+<br/>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=CHAT-DISPARU&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHAT-DISPARU&bg_color=0a0f1e&color=7dd3fc&line=38bdf8&point=7dd3fc&area=true&area_color=38bdf8&hide_border=true&card_width=800">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=CHAT-DISPARU&theme=tokyonight&bg_color=0a0f1e&border_color=1e3a5f&title_color=38bdf8&text_color=7dd3fc&icon_color=38bdf8&show_icons=true&count_private=true&include_all_commits=true">
+  <img src="https://streak-stats.demolab.com/?user=CHAT-DISPARU&theme=tokyonight&background=0a0f1e&border=1e3a5f&ring=38bdf8&fire=7dd3fc&currStreakLabel=38bdf8&count_private=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CHAT-DISPARU&theme=tokyonight&bg_color=0a0f1e&border_color=1e3a5f&title_color=38bdf8&text_color=7dd3fc&include_all_commits=true">
+</p>
 
 <br/>
 
 ---
 
+
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=CHAT-DISPARU&theme=gotham&date_format=j%2Fn%5B%2FY%5D&card_width=550" />
-</div>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=CHAT-DISPARU&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" />
+  </a>
+</p>
+
