@@ -51,11 +51,7 @@ int main(void)
 
 <br/>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=CHAT-DISPARU&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHAT-DISPARU&bg_color=0a0f1e&color=7dd3fc&line=38bdf8&point=7dd3fc&area=true&area_color=38bdf8&hide_border=true&card_width=800">
